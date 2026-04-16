@@ -11,5 +11,5 @@
 #### About me
 <p>
 Programming Technician and Computer Science Student. <br>
-Focuses on technical support, web development and building automated process solutions
+Focuses on technical support, web development and building automated process solutions.
 </p>
