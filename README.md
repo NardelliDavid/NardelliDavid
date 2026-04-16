@@ -8,8 +8,6 @@ Programming Technician and Computer Science Student. <br>
 Focuses on technical support, web development and building automated process solutions.
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NardelliDavid&layout=compact)
-
 ------------
 #### Languages and tools
 <p>
