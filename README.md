@@ -9,6 +9,10 @@ Focuses on technical support, web development and building automated process sol
 </p>
 
 ------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NardelliDavid)](https://github.com/anuraghazra/github-readme-stats)
+
+------------
 #### Languages and tools
 <p>
 	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
