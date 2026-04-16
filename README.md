@@ -1,16 +1,17 @@
-## Hi there 👋
+<h3 align="center">David Nardelli</h3>
 
-<!--
-**NardelliDavid/NardelliDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------
 
-Here are some ideas to get you started:
+<p align="center">
+	<a href="mailto:david.nardelli.joel@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</a>
+<a href="https://www.linkedin.com/in/david-nardelli-4740a53b8/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------
+#### About me
+<p>
+Programming Technician and Computer Science student. 
+My profile is focused on technical support, web development and building automated process solutions
+</p>
