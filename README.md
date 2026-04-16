@@ -8,9 +8,7 @@ Programming Technician and Computer Science Student. <br>
 Focuses on technical support, web development and building automated process solutions.
 </p>
 
-------------
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NardelliDavid)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NardelliDavid&layout=compact)
 
 ------------
 #### Languages and tools
