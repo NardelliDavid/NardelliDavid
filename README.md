@@ -1,4 +1,4 @@
-<h3 align="center">David Nardelli</h3>
+<h3 align="center">Hi, I'm David Nardelli 👋</h3>
 
 ------------
 
@@ -10,6 +10,6 @@
 ------------
 #### About me
 <p>
-Programming Technician and Computer Science student. 
-My profile is focused on technical support, web development and building automated process solutions
+Programming Technician and Computer Science Student. <br>
+Focuses on technical support, web development and building automated process solutions
 </p>
